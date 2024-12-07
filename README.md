@@ -2,6 +2,8 @@
 
 The cousre is so amazing to understand the LLM concepts with ground breaking explaination with PDF and the notebook to grasp the knowledge comprehensively. 
 
+To get into self-paced learning, please enroll in the course and embark the LLM journey: https://www.kaggle.com/learn-guide/5-day-genai
+
 ### Index 
 
 - Day 1
